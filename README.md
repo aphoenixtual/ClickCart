@@ -7,6 +7,13 @@
 
 ---
 
+## Screenshots
+<img src="Demo_look/Web_look_1.PNG" width = "100%">
+<img src="Demo_look/Web_look_2.PNG" width = "100%">
+<img src="Demo_look/Web_look_3.PNG" width = "100%">
+<img src="Demo_look/Web_look_4.PNG" width = "100%">
+<img src="Demo_look/Web_look_5.PNG" width = "100%">
+
 Hope this may help in your project someway...!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
