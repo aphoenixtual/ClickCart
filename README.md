@@ -1,6 +1,20 @@
 # ClickCart
 “CLICKCART ECOMMERCE APPLICATION” is a website which is initially focused on online book sales before expanding into other product categories such as consumer electronics, fashion, home essentials, groceries, and lifestyle products
 
+## Screenshots
+<img src="Demo_look/Web_look_1.PNG" width = "100%">
+<img src="Demo_look/Web_look_2.PNG" width = "100%">
+<img src="Demo_look/Web_look_3.PNG" width = "100%">
+<img src="Demo_look/Web_look_4.PNG" width = "100%">
+<img src="Demo_look/Web_look_5.PNG" width = "100%">
+<img src="Demo_look/Web_look_6.PNG" width = "100%">
+<img src="Demo_look/Web_look_7.PNG" width = "100%">
+<img src="Demo_look/Web_look_8.PNG" width = "100%">
+<img src="Demo_look/Web_look_9.PNG" width = "100%">
+<img src="Demo_look/Web_look_10.PNG" width = "100%">
+
+Hope this may help in your project someway...!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
