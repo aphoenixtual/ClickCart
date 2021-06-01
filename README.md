@@ -9,10 +9,10 @@
 
 ## Screenshots
 <img src="Demo_look/Web_look_1.png" width = "100%">
-<img src="Demo_look/Web_look_2.PNG" width = "100%">
-<img src="Demo_look/Web_look_3.PNG" width = "100%">
-<img src="Demo_look/Web_look_4.PNG" width = "100%">
-<img src="Demo_look/Web_look_5.PNG" width = "100%">
+<img src="Demo_look/Web_look_2.png" width = "100%">
+<img src="Demo_look/Web_look_3.png" width = "100%">
+<img src="Demo_look/Web_look_4.png" width = "100%">
+<img src="Demo_look/Web_look_5.png" width = "100%">
 
 Hope this may help in your project someway...!
 
